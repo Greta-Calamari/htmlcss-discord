@@ -352,12 +352,29 @@ main h1{
      width: 70%;
      height: 800px;
      float: right;
-     background-color: #3161e0;
+     background-color:black;
      
+}
 
-     
- }
- 
+.col-left ul{
+    display: inline-block;
+    list-style-type: none;
+    line-height: 40px;
+}
+
+
+
+.first{
+    color: #8ea1e1;
+}
+
+.seconds{
+    color: white;
+}
+
+.none{
+    height: 80px;
+}
 
  
 
