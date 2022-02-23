@@ -328,6 +328,12 @@ main h1{
       background-color: #23272a;
       padding: 70px 0;
   }
+
+  .container-footer{
+      width: 90%;
+      margin: 0 auto;
+      border-bottom: 1px solid #8ea1e1;
+  }
   
   ul{
       list-style: none;
@@ -390,6 +396,45 @@ main h1{
     
     
 }
+
+.last-footer{
+    position: relative;
+    width: 100%;
+    height: 50px;
+}
+.last-footer2{
+    position: relative;
+    width: 100%;
+    height: 50px;
+}
+
+.last-footer img{
+    position: absolute;
+    bottom:0;
+    left:130px;
+
+}
+.last-footer2 a{
+    position: absolute;
+    bottom: 50px;
+    right:130px;
+    
+
+}
+
+.btn-foot{
+    border-radius: 40px;
+    padding: 7px 16px;
+    background-color: #8ea1e1;
+    color:white;
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    
+
+ }
+
+
 
 
       
