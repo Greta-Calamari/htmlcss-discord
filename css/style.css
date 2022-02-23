@@ -299,7 +299,7 @@ main h1{
 
 
 #star{
-    background-image: url(./img/stars.svg);
+    background-image: url(../img/stars.svg);
     height: 100px;
     width: 600px;
     margin-left: 450px;
@@ -323,8 +323,29 @@ main h1{
   
 
 
-  
+  /* footer */
+ .box-f{
+     width: 100%;
+     height: 900px;
+     margin:0 auto;
+     background-color: #23272a;
+ }
 
+ .footer-box{
+     width: 70%;
+     height:800px ;
+     margin-top: 50px;
+     margin-left: 400px;
+     background-color: #f6f6f6;
+     display: inline-block;
+     
+ }
+
+ 
+
+     
+
+     
 
 
 
