@@ -107,7 +107,7 @@ nav ul{
 }
 #jumbotron{
     min-height:850px ;
-    background-image: url(./img/jumbo.png);
+    background-image: url(../img/jumbo.png);
     background-size: cover;
 }
 #jumbotron .container2{
