@@ -6,17 +6,21 @@
     box-sizing: border-box;
 }
 
-.debug{
-    border: 1px solid black;
-}
+
+
+
 
 body{
     font-family:whitney,helvetica neue, Helvetica,Arial, sans-serif ;
     font-size: 20px;
     color: #23272a;
+    min-width: 2300px;
     
 }
 
+.wave- svg{
+    color:#f6f6f6;
+}
 .container {
     width: 90%;
     margin: 0 auto;
@@ -215,7 +219,9 @@ main h1{
 
   .wave{
     background-color: #f6f6f6;
-    height: 800px;
+    height: 900px;
+    
+    
 
   }
   .text-description-{
@@ -264,9 +270,11 @@ main h1{
 .wave2{
     background-color:#f6f6f6 ;
     height: 1000px;
+    
+    
 
   }
-
+  
 .title-box{
     width: 60%;
     margin:0 auto;
